@@ -1,2 +1,3 @@
 # platform
-A sample frontend project work for review.
+A frontend project work for Bike Royal Kitchen a.k.a (BRK-Foods).
+The website is a landing page to showcase her cooking prowess.
