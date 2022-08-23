@@ -1,5 +1,41 @@
-h1 {
+/* h1 {
    color: orange;
    border: 1px solid black;
    display: inline;  
+} */
+/* Selection by Tag */
+
+div {
+   /* border: 1px solid red; */
+   /* display: inline-block; */
+   background: skyblue;
+   color: white;
+   margin-right: 50px 50px 50px;
+   padding: 5px;
+
 }
+
+/* Selection by Class */
+.right-division {
+   vertical-align: top;
+   display: inline-block;
+   width: 65%;
+   height: 500px;
+   border: 1px solid black;
+   background: skyblue;
+}
+
+.left-division {
+   vertical-align: top;
+   display: inline-block;
+   width: 30%;
+   height: 250px;  
+   border: 1px solid green;
+   background: tomato;
+} 
+
+ .parent-container { 
+   /* border: 3px solid black; */
+   width: 70%;
+   margin: 0 auto;
+} 
